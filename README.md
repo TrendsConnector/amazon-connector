@@ -94,8 +94,8 @@ Claude, ChatGPT, Cursor, VS Code, Claude Code, Grok, Muse, Perplexity, Gemini, C
 
 ## Related connectors
 
-- [Google Shopping connector](https://trendsconnector.com/google-shopping-connector?utm_source=github&utm_medium=readme&utm_campaign=amazon-connector): Google Shopping connector for shopping search volume on a product or category, on the same scale as the other sources.
-- [Web Traffic connector](https://trendsconnector.com/web-traffic-connector?utm_source=github&utm_medium=readme&utm_campaign=amazon-connector): Web Traffic connector for the most-visited websites in a category, such as finance.
+- [Google Shopping connector](https://github.com/trendsconnector/google-shopping-connector): Google Shopping connector for shopping search volume on a product or category, on the same scale as the other sources.
+- [Web Traffic connector](https://github.com/trendsconnector/web-traffic-connector): Web Traffic connector for the most-visited websites in a category, such as finance.
 - [All 20 connectors in one](https://github.com/trendsconnector/claude-trends-connector)
 
 If this connector saves you time, star the repo so other Amazon sellers and ecommerce brands can find it.
